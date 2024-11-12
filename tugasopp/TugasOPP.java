@@ -18,8 +18,8 @@ public class TugasOPP {
     //fungsi utama
     public static void main(String[] args) {
 
-        TugasOPP z = new TugasOPP(); //ininsialisasi method didalam class TugasOPP kedalam objek z
-        Kelulusan l = new Kelulusan(); //inisialisasi class Kelulusan kedalam objek l
+        TugasOPP z = new TugasOPP(); //ininsialisasi method didalam class 'TugasOPP' kedalam objek 'z'
+        Kelulusan l = new Kelulusan(); //inisialisasi class 'Kelulusan' kedalam objek 'l'
         
         int nilai = 80;
         String nama = "joni";
